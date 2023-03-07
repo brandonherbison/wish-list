@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/wish-list/bin/Debug/net7.0/wish-list
+/Users/brandonherbison/workspace/csharp/wish-list/bin/Debug/net7.0/wish-list.deps.json
+/Users/brandonherbison/workspace/csharp/wish-list/bin/Debug/net7.0/wish-list.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/wish-list/bin/Debug/net7.0/wish-list.dll
+/Users/brandonherbison/workspace/csharp/wish-list/bin/Debug/net7.0/wish-list.pdb
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.dll
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/refint/wish-list.dll
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.pdb
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/wish-list.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/wish-list/obj/Debug/net7.0/ref/wish-list.dll
